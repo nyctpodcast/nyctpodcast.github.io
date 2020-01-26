@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Not Your Couple's Therapy</title>
-  <link href="https://nyctpodcast.com//general_feed.xml" rel="self"/>
-  <link href="https://nyctpodcast.com/"/>
-  <updated>2020-01-26T17:43:38-06:00</updated>
-  <id>https://nyctpodcast.com//</id>
+  <link href="https://nyctpodcast.com/general_feed.xml" rel="self"/>
+  <link href="https://nyctpodcast.com"/>
+  <updated>2020-01-26T17:47:11-06:00</updated>
+  <id>https://nyctpodcast.com/</id>
   <author>
     <name>Rachael and Austin Rainwater</name>
     <email>hello@nyctpodcast.com</email>
@@ -14,22 +14,22 @@
   
     <entry>
       <title>Episode 1</title>
-      <link href="https://nyctpodcast.com//2020/01/26/episode0.html"/>
+      <link href="https://nyctpodcast.com/2020/01/26/episode0.html"/>
       <updated>2020-01-26T00:00:00-06:00</updated>
-      <id>https://nyctpodcast.com//2020/01/26/episode0</id>
+      <id>https://nyctpodcast.com/2020/01/26/episode0</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://nyctpodcast.s3.amazonaws.com/NYCT01.mp3&quot;,&quot;m4a&quot;:&quot;https://nyctpodcast.s3.amazonaws.com/NYCT01.m4a&quot;},&quot;coverUrl&quot;:&quot;https://nyctpodcast.com//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 1&quot;,&quot;subtitle&quot;:&quot;Introduction to Our Relationship&quot;,&quot;url&quot;:&quot;https://nyctpodcast.com//2020/01/26/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://nyctpodcast.s3.amazonaws.com/NYCT01.mp3&quot;,&quot;m4a&quot;:&quot;https://nyctpodcast.s3.amazonaws.com/NYCT01.m4a&quot;},&quot;coverUrl&quot;:&quot;https://nyctpodcast.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 1&quot;,&quot;subtitle&quot;:&quot;Introduction to Our Relationship&quot;,&quot;url&quot;:&quot;https://nyctpodcast.com/2020/01/26/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://nyctpodcast.com//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://nyctpodcast.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Rachael and Austin start off the podcast talking about our relationship.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="49277344" href="https://nyctpodcast.com//episodes/NYCT01.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="49277344" href="https://nyctpodcast.com/episodes/NYCT01.mp3"/>
       
-        <link rel="enclosure" type="audio/mp4a-latm" length="38887473" href="https://nyctpodcast.com//episodes/NYCT01.m4a"/>
+        <link rel="enclosure" type="audio/mp4a-latm" length="38887473" href="https://nyctpodcast.com/episodes/NYCT01.m4a"/>
       
       
     </entry>

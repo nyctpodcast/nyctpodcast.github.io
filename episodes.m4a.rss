@@ -9,17 +9,17 @@
 
   <channel>
     <title>Not Your Couple's Therapy</title>
-    <link>https://nyctpodcast.com/</link>
-    <atom:link href="https://nyctpodcast.com//episodes.m4a.rss" rel="self" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-    <atom:link href="https://nyctpodcast.com//episodes.m4a.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://nyctpodcast.com//episodes.m4a.rss" rel="last" type="application/rss+xml" />
+    <link>https://nyctpodcast.com</link>
+    <atom:link href="https://nyctpodcast.com/episodes.m4a.rss" rel="self" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link href="https://nyctpodcast.com/episodes.m4a.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://nyctpodcast.com/episodes.m4a.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="https://nyctpodcast.com//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://nyctpodcast.com/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>Rachael and Austin talk about life and relationships
 </description>
-    <lastBuildDate>Sun, 26 Jan 2020 17:43:38 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 17:47:11 -0600</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Rachael and Austin Rainwater</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://nyctpodcast.com//img/logo-itunes.jpg" />
+    <itunes:image href="https://nyctpodcast.com/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Rachael and Austin Rainwater</itunes:name>
       <itunes:email>hello@nyctpodcast.com</itunes:email>
@@ -38,8 +38,8 @@
     <itunes:keywords>lifestyle, relationships, technology</itunes:keywords>
     <image>
       <title>Not Your Couple's Therapy</title>
-      <url>https://nyctpodcast.com//img/logo-itunes.jpg</url>
-      <link>https://nyctpodcast.com/</link>
+      <url>https://nyctpodcast.com/img/logo-itunes.jpg</url>
+      <link>https://nyctpodcast.com</link>
     </image>
     
     <itunes:category text="Health" />
@@ -53,12 +53,12 @@
         
           <item>
             <title>Episode 1 - Introduction to Our Relationship</title>
-            <link>https://nyctpodcast.com//2020/01/26/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://nyctpodcast.com//players/episode0"/>
-            <comments>https://nyctpodcast.com//2020/01/26/episode0.html#disqus_thread</comments>
+            <link>https://nyctpodcast.com/2020/01/26/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://nyctpodcast.com/players/episode0"/>
+            <comments>https://nyctpodcast.com/2020/01/26/episode0.html#disqus_thread</comments>
             <pubDate>Sun, 26 Jan 2020 00:00:00 -0600</pubDate>
             
-            <guid isPermaLink="false">https://nyctpodcast.com//2020/01/26/episode0.html</guid>
+            <guid isPermaLink="false">https://nyctpodcast.com/2020/01/26/episode0.html</guid>
             <description><![CDATA[
 
 <p>Rachael and Austin start off the podcast talking about our relationship.</p>
