@@ -19,7 +19,7 @@
     <atom:link rel="alternate" href="https://nyctpodcast.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>Rachael and Austin talk about life and relationships
 </description>
-    <lastBuildDate>Sun, 26 Jan 2020 17:04:03 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 17:43:38 -0600</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -42,7 +42,9 @@
       <link>https://nyctpodcast.com/</link>
     </image>
     
-    <itunes:category text="Self-Improvement" />
+    <itunes:category text="Health" />
+    
+    <itunes:category text="Society &amp; Culture" />
     
     
     
